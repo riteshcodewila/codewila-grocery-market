@@ -1,2 +1,7 @@
-# codewila-grocery-market
+cd  # codewila-grocery-market
 codewila-grocery-market
+iukbek g
+
+
+
+test
